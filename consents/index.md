@@ -57,7 +57,7 @@ nckwntzl            | https://github.com/nckwntzl            | Yes to CC0 https:
 quaantuum           | https://github.com/quaantuum           | -
 ZoeyZolotova        | https://github.com/ZoeyZolotova        | -
 sjossi              | https://github.com/sjossi              | -
-Electrk             | https://github.com/Electrk             | -
+Electrk             | https://github.com/Electrk             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371635136
 gamestabled         | https://github.com/gamestabled         | -
 WonderJ13           | https://github.com/WonderJ13           | -
 dhustkoder          | https://github.com/dhustkoder          | -
