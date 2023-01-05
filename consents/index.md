@@ -12,7 +12,7 @@ hensldm             | https://github.com/hensldm             | -
 engineer124         | https://github.com/engineer124         | -
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
 AngheloAlf          | https://github.com/AngheloAlf          | -
-tom-overton         | https://github.com/tom-overton         | -
+tom-overton         | https://github.com/tom-overton         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371695434
 sonicdcer           | https://github.com/sonicdcer           | -
 kyleburnette        | https://github.com/kyleburnette        | -
 Kenix3              | https://github.com/Kenix3              | -
@@ -21,7 +21,7 @@ isghj5              | https://github.com/isghj5              | -
 Thar0               | https://github.com/Thar0               | -
 mzxrules            | https://github.com/mzxrules            | -
 zbanks              | https://github.com/zbanks              | -
-louist103           | https://github.com/louist103           | -
+louist103           | https://github.com/louist103           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371624733
 ordlucas            | https://github.com/ordlucas            | -
 shawlucas           | https://github.com/shawlucas           | -
 rylieb              | https://github.com/rylieb              | -
@@ -35,7 +35,7 @@ fig02               | https://github.com/fig02               | -
 MrPolymorph         | https://github.com/MrPolymorph         | -
 thaumavorio         | https://github.com/thaumavorio         | -
 Cleverking2003      | https://github.com/Cleverking2003      | -
-ethteck             | https://github.com/ethteck             | -
+ethteck             | https://github.com/ethteck             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371701751
 TrulyNaN            | https://github.com/TrulyNaN            | -
 pocable             | https://github.com/pocable             | -
 Andzura             | https://github.com/Andzura             | -
