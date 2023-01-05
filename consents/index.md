@@ -22,7 +22,7 @@ Thar0               | https://github.com/Thar0               | -
 mzxrules            | https://github.com/mzxrules            | -
 zbanks              | https://github.com/zbanks              | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371556445
 louist103           | https://github.com/louist103           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371624733
-ordlucas            | https://github.com/ordlucas            | -
+ordlucas            | https://github.com/ordlucas            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372313909
 shawlucas           | https://github.com/shawlucas           | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371370663
 rylieb              | https://github.com/rylieb              | -
 petrie911           | https://github.com/petrie911           | -
@@ -48,7 +48,7 @@ StickyThwomp        | https://github.com/StickyThwomp        | Yes to CC0 https:
 CrookedPoe          | https://github.com/CrookedPoe          | -
 Averane1            | https://github.com/Averane1            | -
 MMDecomp            | https://github.com/MMDecomp            | -
-krm01               | https://github.com/krm01               | -
+krm01               | https://github.com/krm01               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372356314
 krj9c               | https://github.com/krj9cr              | -
 SailorSnoW          | https://github.com/SailorSnoW          | -
 waffleoRai          | https://github.com/waffleoRai          | -
@@ -58,7 +58,7 @@ quaantuum           | https://github.com/quaantuum           | -
 ZoeyZolotova        | https://github.com/ZoeyZolotova        | -
 sjossi              | https://github.com/sjossi              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372270765
 Electrk             | https://github.com/Electrk             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371635136
-gamestabled         | https://github.com/gamestabled         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370279048
+gamestabled         | https://github.com/gamestabled         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370279048 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372451222
 WonderJ13           | https://github.com/WonderJ13           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371754829
 dhustkoder          | https://github.com/dhustkoder          | -
 MaxBartlett         | https://github.com/MaxBartlett         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371772913
