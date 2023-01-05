@@ -20,10 +20,10 @@ jpburnett           | https://github.com/jpburnett           | -
 isghj5              | https://github.com/isghj5              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371788694
 Thar0               | https://github.com/Thar0               | -
 mzxrules            | https://github.com/mzxrules            | -
-zbanks              | https://github.com/zbanks              | -
+zbanks              | https://github.com/zbanks              | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371556445
 louist103           | https://github.com/louist103           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371624733
 ordlucas            | https://github.com/ordlucas            | -
-shawlucas           | https://github.com/shawlucas           | -
+shawlucas           | https://github.com/shawlucas           | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371370663
 rylieb              | https://github.com/rylieb              | -
 petrie911           | https://github.com/petrie911           | -
 chloebangbang       | https://github.com/chloebangbang       | -
@@ -40,7 +40,7 @@ TrulyNaN            | https://github.com/TrulyNaN            | Yes to CC0 https:
 pocable             | https://github.com/pocable             | -
 Andzura             | https://github.com/Andzura             | -
 immibis             | https://github.com/immibis             | -
-emilybrooks         | https://github.com/emilybrooks         | -
+emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
 NickSturgeon        | https://github.com/NickSturgeon        | -
 Synray              | https://github.com/Synray              | -
 Roman971            | https://github.com/Roman971            | -
@@ -58,7 +58,7 @@ quaantuum           | https://github.com/quaantuum           | -
 ZoeyZolotova        | https://github.com/ZoeyZolotova        | -
 sjossi              | https://github.com/sjossi              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372270765
 Electrk             | https://github.com/Electrk             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371635136
-gamestabled         | https://github.com/gamestabled         | -
+gamestabled         | https://github.com/gamestabled         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370279048
 WonderJ13           | https://github.com/WonderJ13           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371754829
 dhustkoder          | https://github.com/dhustkoder          | -
 MaxBartlett         | https://github.com/MaxBartlett         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371772913
