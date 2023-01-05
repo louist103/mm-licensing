@@ -53,7 +53,7 @@ krj9c               | https://github.com/krj9cr              | -
 SailorSnoW          | https://github.com/SailorSnoW          | -
 waffleoRai          | https://github.com/waffleoRai          | -
 Dragorn421          | https://github.com/Dragorn421          | -
-nckwntzl            | https://github.com/nckwntzl            | -
+nckwntzl            | https://github.com/nckwntzl            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371627745
 quaantuum           | https://github.com/quaantuum           | -
 ZoeyZolotova        | https://github.com/ZoeyZolotova        | -
 sjossi              | https://github.com/sjossi              | -
