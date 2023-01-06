@@ -18,9 +18,9 @@ kyleburnette        | https://github.com/kyleburnette        | -
 Kenix3              | https://github.com/Kenix3              | -
 jpburnett           | https://github.com/jpburnett           | -
 isghj5              | https://github.com/isghj5              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371788694
-Thar0               | https://github.com/Thar0               | -
+Thar0               | https://github.com/Thar0               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372843374
 mzxrules            | https://github.com/mzxrules            | -
-zbanks              | https://github.com/zbanks              | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371556445
+zbanks              | https://github.com/zbanks              | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371556445 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1373086398
 louist103           | https://github.com/louist103           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371624733
 ordlucas            | https://github.com/ordlucas            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372313909
 shawlucas           | https://github.com/shawlucas           | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371370663
@@ -28,16 +28,16 @@ rylieb              | https://github.com/rylieb              | -
 petrie911           | https://github.com/petrie911           | -
 chloebangbang       | https://github.com/chloebangbang       | -
 LtPeriwinkle        | https://github.com/LtPeriwinkle        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371763492
-retro-git           | https://github.com/retro-git           | -
+retro-git           | https://github.com/retro-git           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372934323
 Zelllll             | https://github.com/Zelllll             | -
 mmbx304             | https://github.com/mmbx304             | -
-fig02               | https://github.com/fig02               | -
+fig02               | https://github.com/fig02               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372819890
 MrPolymorph         | https://github.com/MrPolymorph         | -
 thaumavorio         | https://github.com/thaumavorio         | -
 Cleverking2003      | https://github.com/Cleverking2003      | -
 ethteck             | https://github.com/ethteck             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371701751
 TrulyNaN            | https://github.com/TrulyNaN            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371776011
-pocable             | https://github.com/pocable             | -
+pocable             | https://github.com/pocable             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372977652
 Andzura             | https://github.com/Andzura             | -
 immibis             | https://github.com/immibis             | -
 emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
@@ -50,7 +50,7 @@ Averane1            | https://github.com/Averane1            | -
 MMDecomp            | https://github.com/MMDecomp            | -
 krm01               | https://github.com/krm01               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372356314
 krj9c               | https://github.com/krj9cr              | -
-SailorSnoW          | https://github.com/SailorSnoW          | -
+SailorSnoW          | https://github.com/SailorSnoW          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372985074
 waffleoRai          | https://github.com/waffleoRai          | -
 Dragorn421          | https://github.com/Dragorn421          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372244114
 nckwntzl            | https://github.com/nckwntzl            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371627745
