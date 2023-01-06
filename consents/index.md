@@ -38,7 +38,7 @@ Cleverking2003      | https://github.com/Cleverking2003      | -
 ethteck             | https://github.com/ethteck             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371701751
 TrulyNaN            | https://github.com/TrulyNaN            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371776011
 pocable             | https://github.com/pocable             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372977652
-Andzura             | https://github.com/Andzura             | -
+Andzura             | https://github.com/Andzura             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1373404846
 immibis             | https://github.com/immibis             | -
 emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
 NickSturgeon        | https://github.com/NickSturgeon        | -
