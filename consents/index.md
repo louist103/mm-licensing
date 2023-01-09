@@ -14,7 +14,7 @@ EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
 AngheloAlf          | https://github.com/AngheloAlf          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372258492
 tom-overton         | https://github.com/tom-overton         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371695434
 sonicdcer           | https://github.com/sonicdcer           | -
-kyleburnette        | https://github.com/kyleburnette        | -
+kyleburnette        | https://github.com/kyleburnette        | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1376410952
 Kenix3              | https://github.com/Kenix3              | -
 jpburnett           | https://github.com/jpburnett           | -
 isghj5              | https://github.com/isghj5              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371788694
@@ -42,7 +42,7 @@ Andzura             | https://github.com/Andzura             | Yes to CC0 https:
 immibis             | https://github.com/immibis             | -
 emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
 NickSturgeon        | https://github.com/NickSturgeon        | -
-Synray              | https://github.com/Synray              | -
+Synray              | https://github.com/Synray              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1376374738
 Roman971            | https://github.com/Roman971            | -
 StickyThwomp        | https://github.com/StickyThwomp        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372261757
 CrookedPoe          | https://github.com/CrookedPoe          | -
