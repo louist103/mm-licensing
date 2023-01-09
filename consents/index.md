@@ -8,7 +8,7 @@ GitHub Username | GitHub profile | Consent
 -|-|-
 Kelebek1            | https://github.com/Kelebek1            | -
 Rozelette           | https://github.com/Rozelette           | -
-hensldm             | https://github.com/hensldm             | -
+hensldm             | https://github.com/hensldm             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1375075721
 engineer124         | https://github.com/engineer124         | -
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
 AngheloAlf          | https://github.com/AngheloAlf          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372258492
@@ -46,7 +46,7 @@ Synray              | https://github.com/Synray              | -
 Roman971            | https://github.com/Roman971            | -
 StickyThwomp        | https://github.com/StickyThwomp        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372261757
 CrookedPoe          | https://github.com/CrookedPoe          | -
-Averane1            | https://github.com/Averane1            | -
+Averane1            | https://github.com/Averane1            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1374878570
 MMDecomp            | https://github.com/MMDecomp            | -
 krm01               | https://github.com/krm01               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372356314
 krj9c               | https://github.com/krj9cr              | -
