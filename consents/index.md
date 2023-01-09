@@ -25,7 +25,7 @@ louist103           | https://github.com/louist103           | Yes to CC0 https:
 ordlucas            | https://github.com/ordlucas            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372313909
 shawlucas           | https://github.com/shawlucas           | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371370663
 rylieb              | https://github.com/rylieb              | -
-petrie911           | https://github.com/petrie911           | -
+petrie911           | https://github.com/petrie911           | Yes to CC0 https://github.com/louist103/mm-licensing/blob/d8945051c9128cbc3174c4a71e1e708881a88273/consents/discord/Screenshot%20from%202023-01-09%2015-42-30.png
 chloebangbang       | https://github.com/chloebangbang       | -
 LtPeriwinkle        | https://github.com/LtPeriwinkle        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371763492
 retro-git           | https://github.com/retro-git           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372934323
