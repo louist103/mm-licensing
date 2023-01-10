@@ -13,7 +13,7 @@ engineer124         | https://github.com/engineer124         | Yes to CC0 https:
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
 AngheloAlf          | https://github.com/AngheloAlf          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372258492
 tom-overton         | https://github.com/tom-overton         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371695434
-sonicdcer           | https://github.com/sonicdcer           | -
+sonicdcer           | https://github.com/sonicdcer           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372477441
 kyleburnette        | https://github.com/kyleburnette        | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1376410952
 Kenix3              | https://github.com/Kenix3              | -
 jpburnett           | https://github.com/jpburnett           | -
@@ -51,7 +51,7 @@ MMDecomp            | https://github.com/MMDecomp            | -
 krm01               | https://github.com/krm01               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372356314
 krj9c               | https://github.com/krj9cr              | -
 SailorSnoW          | https://github.com/SailorSnoW          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372985074
-waffleoRai          | https://github.com/waffleoRai          | -
+waffleoRai          | https://github.com/waffleoRai          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372492702
 Dragorn421          | https://github.com/Dragorn421          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372244114
 nckwntzl            | https://github.com/nckwntzl            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371627745
 quaantuum           | https://github.com/quaantuum           | -
