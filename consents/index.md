@@ -32,14 +32,14 @@ retro-git           | https://github.com/retro-git           | Yes to CC0 https:
 Zelllll             | https://github.com/Zelllll             | -
 mmbx304             | https://github.com/mmbx304             | -
 fig02               | https://github.com/fig02               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372819890
-MrPolymorph         | https://github.com/MrPolymorph         | -
+MrPolymorph         | https://github.com/MrPolymorph         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1383163232
 thaumavorio         | https://github.com/thaumavorio         | -
 Cleverking2003      | https://github.com/Cleverking2003      | -
 ethteck             | https://github.com/ethteck             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371701751
 TrulyNaN            | https://github.com/TrulyNaN            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371776011
 pocable             | https://github.com/pocable             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372977652
 Andzura             | https://github.com/Andzura             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1373404846
-immibis             | https://github.com/immibis             | -
+immibis             | https://github.com/immibis             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1383154900
 emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
 NickSturgeon        | https://github.com/NickSturgeon        | -
 Synray              | https://github.com/Synray              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1376374738
