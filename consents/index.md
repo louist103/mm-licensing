@@ -7,7 +7,7 @@ Note this list may be incomplete as it is based on the public repository history
 GitHub Username | GitHub profile | Consent
 -|-|-
 Kelebek1            | https://github.com/Kelebek1            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1376517433
-Rozelette           | https://github.com/Rozelette           | -
+Rozelette           | https://github.com/Rozelette           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1386459048
 hensldm             | https://github.com/hensldm             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1375075721
 engineer124         | https://github.com/engineer124         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1376635452
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
