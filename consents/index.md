@@ -15,7 +15,7 @@ AngheloAlf          | https://github.com/AngheloAlf          | Yes to CC0 https:
 tom-overton         | https://github.com/tom-overton         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371695434
 sonicdcer           | https://github.com/sonicdcer           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372477441
 kyleburnette        | https://github.com/kyleburnette        | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1376410952
-Kenix3              | https://github.com/Kenix3              | -
+Kenix3              | https://github.com/Kenix3              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1397928651
 jpburnett           | https://github.com/jpburnett           | -
 isghj5              | https://github.com/isghj5              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371788694
 Thar0               | https://github.com/Thar0               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372843374
