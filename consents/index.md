@@ -29,7 +29,7 @@ petrie911           | https://github.com/petrie911           | Yes to CC0 https:
 chloebangbang       | https://github.com/chloebangbang       | Yes to CC0 https://github.com/louist103/mm-licensing/blob/master/consents/discord/Screenshot%20from%202023-01-09%2016-00-26.png
 LtPeriwinkle        | https://github.com/LtPeriwinkle        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371763492
 retro-git           | https://github.com/retro-git           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372934323
-Zelllll             | https://github.com/Zelllll             | -
+Zelllll             | https://github.com/Zelllll             | Yes to CC0 (privately, see private/)
 mmbx304             | https://github.com/mmbx304             | -
 fig02               | https://github.com/fig02               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372819890
 MrPolymorph         | https://github.com/MrPolymorph         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1383163232
