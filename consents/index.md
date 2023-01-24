@@ -49,7 +49,7 @@ CrookedPoe          | https://github.com/CrookedPoe          | -
 Averane1            | https://github.com/Averane1            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1374878570
 MMDecomp            | https://github.com/MMDecomp            | -
 krm01               | https://github.com/krm01               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372356314
-krj9c               | https://github.com/krj9cr              | -
+krj9c               | https://github.com/krj9cr              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1401301855
 SailorSnoW          | https://github.com/SailorSnoW          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372985074
 waffleoRai          | https://github.com/waffleoRai          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372492702
 Dragorn421          | https://github.com/Dragorn421          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372244114
