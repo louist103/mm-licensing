@@ -54,7 +54,7 @@ SailorSnoW          | https://github.com/SailorSnoW          | Yes to CC0 https:
 waffleoRai          | https://github.com/waffleoRai          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372492702
 Dragorn421          | https://github.com/Dragorn421          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372244114
 nckwntzl            | https://github.com/nckwntzl            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371627745
-quaantuum           | https://github.com/quaantuum           | -
+quaantuum           | https://github.com/quaantuum           | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1401361079
 ZoeyZolotova        | https://github.com/ZoeyZolotova        | -
 sjossi              | https://github.com/sjossi              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372270765
 Electrk             | https://github.com/Electrk             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371635136
