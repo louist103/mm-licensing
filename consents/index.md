@@ -33,7 +33,7 @@ Zelllll             | https://github.com/Zelllll             | Yes to CC0 (priva
 mmbx304             | https://github.com/mmbx304             | -
 fig02               | https://github.com/fig02               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372819890
 MrPolymorph         | https://github.com/MrPolymorph         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1383163232
-thaumavorio         | https://github.com/thaumavorio         | -
+thaumavorio         | https://github.com/thaumavorio         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1401223778
 Cleverking2003      | https://github.com/Cleverking2003      | -
 ethteck             | https://github.com/ethteck             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371701751
 TrulyNaN            | https://github.com/TrulyNaN            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371776011
