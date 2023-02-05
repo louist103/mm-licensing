@@ -41,7 +41,7 @@ pocable             | https://github.com/pocable             | Yes to CC0 https:
 Andzura             | https://github.com/Andzura             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1373404846
 immibis             | https://github.com/immibis             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1383154900
 emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
-NickSturgeon        | https://github.com/NickSturgeon        | -
+NickSturgeon        | https://github.com/NickSturgeon        | Yes to CC0 https://github.com/louist103/mm-licensing/blob/master/consents/discord/NickSturgeon.PNG
 Synray              | https://github.com/Synray              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1376374738
 Roman971            | https://github.com/Roman971            | -
 StickyThwomp        | https://github.com/StickyThwomp        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372261757
