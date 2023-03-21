@@ -63,7 +63,7 @@ WonderJ13           | https://github.com/WonderJ13           | Yes to CC0 https:
 dhustkoder          | https://github.com/dhustkoder          | -
 MaxBartlett         | https://github.com/MaxBartlett         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371772913
 francisjeanneau     | https://github.com/francisjeanneau     | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1421824700
-
+swinginman          | https://github.com/swinginman          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1477014107
 
 
 
