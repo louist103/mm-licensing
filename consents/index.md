@@ -60,7 +60,7 @@ sjossi              | https://github.com/sjossi              | Yes to CC0 https:
 Electrk             | https://github.com/Electrk             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371635136
 gamestabled         | https://github.com/gamestabled         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370279048 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372451222
 WonderJ13           | https://github.com/WonderJ13           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371754829
-dhustkoder          | https://github.com/dhustkoder          | -
+dhustkoder          | https://github.com/dhustkoder          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1509354113
 MaxBartlett         | https://github.com/MaxBartlett         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371772913
 francisjeanneau     | https://github.com/francisjeanneau     | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1421824700
 swinginman          | https://github.com/swinginman          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1477014107
