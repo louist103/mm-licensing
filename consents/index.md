@@ -65,4 +65,5 @@ MaxBartlett         | https://github.com/MaxBartlett         | Yes to CC0 https:
 francisjeanneau     | https://github.com/francisjeanneau     | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1421824700
 swinginman          | https://github.com/swinginman          | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1477014107
 Zakru               | https://github.com/Zakru               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1513862002
+KidFeroz            | https://github.com/KidFeroz            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1567424595
 
