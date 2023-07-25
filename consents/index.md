@@ -69,3 +69,4 @@ KidFeroz            | https://github.com/KidFeroz            | Yes to CC0 https:
 hack-nuss           | https://github.com/hack-nuss           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1572916745
 SeDan01             | https://github.com/SeDan01             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1585058085
 HailToDodongo       | https://github.com/HailToDodongo       | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1616424533
+AbdooOwd            | https://github.com/AbdooOwd            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1649163116
