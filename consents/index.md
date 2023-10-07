@@ -70,3 +70,6 @@ hack-nuss           | https://github.com/hack-nuss           | Yes to CC0 https:
 SeDan01             | https://github.com/SeDan01             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1585058085
 HailToDodongo       | https://github.com/HailToDodongo       | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1616424533
 AbdooOwd            | https://github.com/AbdooOwd            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1649163116
+MegalIDK            | https://github.com/MegaIDK             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1652269340
+zrnorth             | https://github.com/zrnorth             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1732379003
+Wimmerrad           | https://github.com/Wimmerrad           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1751707652
