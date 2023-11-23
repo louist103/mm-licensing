@@ -73,3 +73,5 @@ AbdooOwd            | https://github.com/AbdooOwd            | Yes to CC0 https:
 MegalIDK            | https://github.com/MegaIDK             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1652269340
 zrnorth             | https://github.com/zrnorth             | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1732379003
 Wimmerrad           | https://github.com/Wimmerrad           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1751707652
+codeOverFlow        | https://github.com/codeOverFlow        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1758160421
+Javarooster-png     | https://github.com/Javarooster-png     | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1822818208
