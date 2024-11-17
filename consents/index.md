@@ -43,7 +43,7 @@ immibis             | https://github.com/immibis             | Yes to CC0 https:
 emilybrooks         | https://github.com/emilybrooks         | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1370037184
 NickSturgeon        | https://github.com/NickSturgeon        | Yes to CC0 https://github.com/louist103/mm-licensing/blob/master/consents/discord/NickSturgeon.PNG
 Synray              | https://github.com/Synray              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1376374738
-Roman971            | https://github.com/Roman971            | -
+Roman971            | https://github.com/Roman971            | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-2480851528
 StickyThwomp        | https://github.com/StickyThwomp        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372261757
 CrookedPoe          | https://github.com/CrookedPoe          | -
 Averane1            | https://github.com/Averane1            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1374878570
