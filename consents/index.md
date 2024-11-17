@@ -76,4 +76,6 @@ Wimmerrad           | https://github.com/Wimmerrad           | Yes to CC0 https:
 codeOverFlow        | https://github.com/codeOverFlow        | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1758160421
 Javarooster-png     | https://github.com/Javarooster-png     | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1822818208
 garrettjoecox       | https://github.com/garrettjoecox       | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1920514542
+Archez              | https://github.com/Archez              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1986096267
+GinNoOOkami         | https://github.com/GinNoOokami         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1951478550
 inspectredc         | https://github.com/inspectredc         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-2093010741
