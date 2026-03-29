@@ -19,7 +19,7 @@ Kenix3              | https://github.com/Kenix3              | Yes to CC0 https:
 jpburnett           | https://github.com/jpburnett           | -
 isghj5              | https://github.com/isghj5              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371788694
 Thar0               | https://github.com/Thar0               | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372843374
-mzxrules            | https://github.com/mzxrules            | -
+mzxrules            | https://github.com/mzxrules            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-4129843744
 zbanks              | https://github.com/zbanks              | Yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1#issuecomment-1371556445 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1373086398
 louist103           | https://github.com/louist103           | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1371624733
 ordlucas            | https://github.com/ordlucas            | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1372313909
@@ -79,3 +79,7 @@ garrettjoecox       | https://github.com/garrettjoecox       | Yes to CC0 https:
 Archez              | https://github.com/Archez              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1986096267
 GinNoOOkami         | https://github.com/GinNoOokami         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-1951478550
 inspectredc         | https://github.com/inspectredc         | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-2093010741
+t0mtee              | https://github.com/t0mtee              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-2817341369
+Eblo                | https://github.com/Eblo                | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-3039298388
+JordanLongstaff     | https://github.com/JordanLongstaff     | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-3596391673
+Ozero4              | https://github.com/Ozero4              | Yes to CC0 https://github.com/louist103/mm-licensing/issues/1#issuecomment-3960224236
